@@ -1,4 +1,3 @@
-# GIT2
 <!DOCTYPE html>
 <html>
 <head>
